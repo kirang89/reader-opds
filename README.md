@@ -40,3 +40,7 @@ Articles use Reader's exported `html_content`; documents without content may pro
 ```sh
 python3 -m unittest discover -s tests -v
 ```
+
+## License
+
+[MIT](LICENSE)
